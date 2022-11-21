@@ -7,7 +7,7 @@
 - Watch this video, the result of more than 300 hours of dedication and more than 10 thousand lines of code just for loving to program: https://www.youtube.com/watch?v=BFOWbPuTMBs&ab_channel=TVDefesaSL
 
 ## My Games ♥
-Check out my games released by my Studio: https://store.steampowered.com/developer/heimo
+Check out my games released: https://store.steampowered.com/developer/heimo
 <!---
 Bissonho/Bissonho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
